@@ -34,7 +34,7 @@
   "editor.scrollbar.vertical": "visible",
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
-  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
@@ -49,7 +49,6 @@
   "vsicons.dontShowNewVersionMessage": true,
   "explorer.confirmDelete": false,
   "extensions.autoUpdate": "onlyEnabledExtensions",
-  "window.zoomLevel": 0,
 }
 
 CURRENT THEME: One dark pro - darker variant
