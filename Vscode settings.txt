@@ -22,7 +22,6 @@
   "zenMode.fullScreen": false,
   "zenMode.silentNotifications": false,
   "editor.linkedEditing": true,
-  "workbench.iconTheme": "vscode-icons",
   "breadcrumbs.icons": false,
   "outline.icons": false,
   "workbench.colorTheme": "One Dark Pro Darker",
@@ -46,13 +45,10 @@
   "terminal.integrated.mouseWheelScrollSensitivity": 0,
   "editor.mouseWheelScrollSensitivity": 1.25,
   "workbench.list.mouseWheelScrollSensitivity": 1.25,
-  "vsicons.dontShowNewVersionMessage": true,
   "explorer.confirmDelete": false,
   "extensions.autoUpdate": "onlyEnabledExtensions",
 }
 
 CURRENT THEME: One dark pro - darker variant
 
-ICONS: Vscode-icons
-
-OTHER EXTENSIONS: Live server, javaScript (ES6) code snippets and polacode
+OTHER EXTENSIONS: Live server and javaScript (ES6) code snippets
